@@ -1,0 +1,20 @@
+{
+  "name": "callbacks-amman",
+  "version": "1.0.0",
+  "description": "A comparison of callbacks and promises for my friends in Amman",
+  "main": "example.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seantdg/callbacks-amman.git"
+  },
+  "author": "Sean Davis",
+  "bugs": {
+    "url": "https://github.com/seantdg/callbacks-amman/issues"
+  },
+  "homepage": "https://github.com/seantdg/callbacks-amman#readme",
+  "dependencies": {
+    "promise": "^8.0.1",
+    "request": "^2.83.0",
+    "request-promise-native": "^1.0.5"
+  }
+}
